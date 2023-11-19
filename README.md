@@ -9,6 +9,10 @@ This Contacts App is a React application that displays contact information fetch
 - **Nested Details**: Additional details about the company and address are nested within each contact card, keeping the information structured and easy to navigate.
 - **Clean and Minimalist UI**: The app sports a clean, minimalist interface, as depicted in the provided screenshot, ensuring a focus on content and usability.
 
+## Live Demo
+
+The app is deployed and can be viewed live at [ReactContactViewer](https://main.d1cp9qfhypir2t.amplifyapp.com/).
+
 ## Installation
 
 To install and run the app locally:
