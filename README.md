@@ -7,7 +7,7 @@ This Contacts App is a React application that displays contact information fetch
 - **Dynamic Data Fetching**: On the home page, the app dynamically loads contact data from `https://jsonplaceholder.typicode.com/users`.
 - **Expandable Contact Cards**: Contacts are presented in individual accordions, which users can expand to reveal detailed information such as phone numbers, emails, and addresses.
 - **Nested Details**: Additional details about the company and address are nested within each contact card, keeping the information structured and easy to navigate.
-- **Clean and Minimalist UI**: The app sports a clean, minimalist interface, as depicted in the provided screenshot, ensuring a focus on content and usability.
+- **Clean and Minimalist UI**: The app sports a clean, minimalist interface, ensuring a focus on content and usability.
 
 ## Live Demo
 
